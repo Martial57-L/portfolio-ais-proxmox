@@ -22,3 +22,9 @@ Cette section présentera les installations, configurations et vérifications ef
 
 ## Documentation
 Les procédures techniques et les captures d'écran de mes réalisations seront ajoutées progressivement.
+
+## Captures d'écran
+
+### Mes deux machines virtuelles Proxmox VE
+
+![Deux VM Proxmox VE](captures/proxmox-deux-vm.png)
