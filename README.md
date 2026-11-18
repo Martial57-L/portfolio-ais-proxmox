@@ -39,9 +39,6 @@ Projet de virtualisation réalisé dans le cadre de ma formation Administrateur 
 ### Bilan
 Cet atelier m'a permis de mettre en pratique la virtualisation imbriquée, la configuration des ressources matérielles et la vérification de la connectivité réseau entre deux hyperviseurs.
 
-## Documentation
-Les procédures techniques et les captures d'écran de mes réalisations seront ajoutées progressivement.
-
 ## Captures d'écran
 
 ### Mes deux machines virtuelles Proxmox VE
